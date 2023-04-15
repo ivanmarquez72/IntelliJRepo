@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Nuevo Proyecto");
         System.out.println("Proyecto Git");
         System.out.println("Cambio desde GitHub");
+        System.out.println("Cambio desde IntelliJ con nueva rama");
     }
 }
